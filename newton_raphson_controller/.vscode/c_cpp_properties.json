@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/factslabegmc/mocap_ws/install/rqt_mocap_control/include/**",
+        "/home/factslabegmc/mocap_ws/install/px4_msgs/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_robot_gt_msgs/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_optitrack_interfaces/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_optitrack_driver/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_msgs/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_marker_viz_srvs/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_control/include/**",
+        "/home/factslabegmc/mocap_ws/install/mocap_control_msgs/include/**",
+        "/opt/ros/galactic/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
