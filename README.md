@@ -1,7 +1,6 @@
 # MoralesCuadrado_ACC2024
 
-Videos of the quadrotor flying may be seen ([here](https://youtu.be/cmXgqUy-NV8))  MAKE PUBLIC
-
+Videos of the quadrotor flying may be seen ([here](https://www.youtube.com/watch?v=vQiQZZE2iDM))
 
 ## Preliminary
 1. Follow the instructions ([here](https://docs.px4.io/main/en/ros/ros2_comm.html)) to set up the PX4 Autopilot Stack, ROS2, Micro XRCE-DDS Agent & Client, and build a ROS2 workspace with the necessary px4 communication repos
