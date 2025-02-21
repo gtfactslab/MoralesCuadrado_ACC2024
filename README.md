@@ -36,7 +36,7 @@ source install/setup.bash
 2. Activate your conda environment in this same terminal with sourcing
 
 ## Citing this Work:
-Please ([cite this paper](https://ieeexplore.ieee.org/document/10644692))
+Please ([cite this paper](https://ieeexplore.ieee.org/document/10644692)) or find the [arxiv version here](https://arxiv.org/abs/2408.11197#:~:text=We%20apply%20the%20Newton%2DRaphson,in%20the%20popular%20PX4%20Autopilot.)
 
 ## Authors:
 Evanns G. Morales-Cuadrado, Christian Llanes, Yorai Wardi, Samuel Coogan
