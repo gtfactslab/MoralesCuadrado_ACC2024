@@ -36,7 +36,7 @@ source install/setup.bash
 2. Activate your conda environment in this same terminal with sourcing
 
 ## Citing this Work:
-Please site ([this paper](https://ieeexplore.ieee.org/document/10644692))
+Please ([cite this paper](https://ieeexplore.ieee.org/document/10644692))
 
 ## Authors:
 Evanns G. Morales-Cuadrado, Christian Llanes, Yorai Wardi, Samuel Coogan
