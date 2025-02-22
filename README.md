@@ -34,6 +34,12 @@ MicroXRCEAgent udp4 -p 8888
 source install/setup.bash
 ```
 2. Activate your conda environment in this same terminal with sourcing
+3. After sourcing and activating environment, run the file:
+```
+ros2 run newton_raphson_controller newton_raphson
+```
+4. When prompted, answer [0/1] whether in simulation or hardware.
+
 
 ## Citing this Work:
 Please [cite this paper](https://ieeexplore.ieee.org/document/10644692) ([arxiv version here](https://arxiv.org/abs/2408.11197#:~:text=We%20apply%20the%20Newton%2DRaphson,in%20the%20popular%20PX4%20Autopilot.)).
@@ -41,8 +47,4 @@ Please [cite this paper](https://ieeexplore.ieee.org/document/10644692) ([arxiv 
 ## Authors:
 Evanns G. Morales-Cuadrado, Christian Llanes, Yorai Wardi, Samuel Coogan
 
-3. After sourcing and activating environment, run the file:
-```
-ros2 run newton_raphson_controller newton_raphson
-```
-4. When prompted, answer [0/1] whether in simulation or hardware.
+
